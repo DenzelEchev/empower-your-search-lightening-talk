@@ -3,7 +3,7 @@
 All the slides can be located in the directory in this repo.
 
 
-![alt text](./../../../Documents/Empower%20Your%20Search/‎Empower%20Your%20Search.‎001.png)
+![alt text](./Empower%20Your%20Search/‎Empower%20Your%20Search.‎001.png)
 
 ![alt text](./../../../Documents/Empower%20Your%20Search/‎Empower%20Your%20Search.‎002.png)
 
