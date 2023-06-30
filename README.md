@@ -1,6 +1,6 @@
 # empower-your-search-lightening-talk
 ## This is the Keynote from my talk @ Scripted Philadelphia on June 29th 2023
-All the slides can be located in the directory in this repo
+All the slides can be located in the directory in this repo.
 
 
 ![alt text](./../../../Documents/Empower%20Your%20Search/‎Empower%20Your%20Search.‎001.png)
