@@ -5,7 +5,7 @@ All the slides can be located in the directory in this repo.
 
 ![alt text](./Empower%20Your%20Search/‎Empower%20Your%20Search.‎001.png)
 
--
+- Title slide, Empowering your search. Something that I believe can help dev not only during developement but outside of that during a normal search. It is also a skill that should be taught in our schooling as well.
 ![alt text](./Empower%20Your%20Search/‎Empower%20Your%20Search.‎002.png)
 
 -
