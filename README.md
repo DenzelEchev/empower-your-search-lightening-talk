@@ -13,7 +13,8 @@ All the slides can be located in the directory in this repo.
 
 ![alt text](./Empower%20Your%20Search/‎Empower%20Your%20Search.‎003.png)
 
--
+- So lets talk about what a search in 2023 shouldn't and should look like. And have some fun along the way...
+
 ![alt text](./Empower%20Your%20Search/‎Empower%20Your%20Search.‎004.png)
 
 -
