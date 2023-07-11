@@ -17,7 +17,7 @@ All the slides can be located in the directory in this repo.
 
 ![alt text](./Empower%20Your%20Search/‎Empower%20Your%20Search.‎004.png)
 
--
+-So this is an actual search I promise you this.
 ![alt text](./Empower%20Your%20Search/‎Empower%20Your%20Search.‎005.png)
 
 -
